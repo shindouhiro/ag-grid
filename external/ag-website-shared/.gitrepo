@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+remote = git@github.com:ag-grid/ag-website-shared.git
+branch = latest
+	commit = 3d7d48e1201ae93d80248e61ea1a246478b3af7b
+	parent = 294b77454e0eceaf495ead038a49617ac528b221
+	method = rebase
+	cmdver = 0.4.9
